@@ -1,10 +1,14 @@
+Kunde: D025755
 FTP Passwort generiert und in CE-Doku hinterlegt.
 Kleine Webseite erstellt.
 32:36 minuten
 
+Impressum und Datenschutzerklärung durch Generator erstellen lassen.
+Impressum angepasst.
+15:29 minuten
+
 TODO:
 
-Impressum
 Datenschutz
 
 Modals
