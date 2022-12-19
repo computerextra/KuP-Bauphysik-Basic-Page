@@ -1,4 +1,5 @@
 Kunde: D025755
+Auftrag AU22730972
 FTP Passwort generiert und in CE-Doku hinterlegt.
 Kleine Webseite erstellt.
 32:36 minuten
@@ -7,10 +8,10 @@ Impressum und Datenschutzerklärung durch Generator erstellen lassen.
 Impressum angepasst.
 15:29 minuten
 
+Datenschutz angepasst.
+Webseite gestestet.
+8 min
+
 TODO:
-
-Datenschutz
-
-Modals
 
 Hochladen!
