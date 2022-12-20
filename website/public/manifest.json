@@ -1,0 +1,8 @@
+{
+  "short_name": "K&P Bauphysik GmbH",
+  "name": "K&P Bauphysik GmbH",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
