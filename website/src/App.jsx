@@ -1,9 +1,5 @@
 import { useState } from "react";
-import { Container } from "react-bootstrap";
-import Button from "react-bootstrap/esm/Button";
-import Col from "react-bootstrap/esm/Col";
-import Row from "react-bootstrap/esm/Row";
-import Modal from "react-bootstrap/Modal";
+import { Button, Col, Container, Modal, Row } from "react-bootstrap";
 
 function App() {
   const [showImpressum, setShowImpressum] = useState(false);
