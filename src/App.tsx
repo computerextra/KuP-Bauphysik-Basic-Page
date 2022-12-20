@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <Container className="custom-container">
-        <h2 className="text-center">Hier entsteht bald die Webseite von</h2>
+        <h2 className="text-center">Hier entsteht die Webseite von</h2>
         <h1 className="text-center">K&P Bauphysik GmbH</h1>
         <Row className="gx-5 mt-5">
           <Col sm={6} className="d-flex justify-content-center">
