@@ -59,7 +59,7 @@ function App() {
 
           <h2>Kontakt</h2>
           <p>
-            Telefon: 0561/94990431
+            Telefon: 0176/14915477
             <br />
             E-Mail: marc [PUNKT] klatecki [AT] kp-bauphysik [PUNKT] de
           </p>
@@ -235,7 +235,7 @@ function App() {
           </p>
 
           <p>
-            Telefon: 0561/94990431
+            Telefon: 0176/14915477
             <br />
             E-Mail: marc.klatecki@kp-bauphysik.de
           </p>
